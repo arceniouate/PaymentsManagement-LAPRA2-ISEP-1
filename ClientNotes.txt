@@ -1,0 +1,8 @@
+* No caso de uso"Registo de organização" é necessário introduzir: designação da organização e NIF; nome e mail do colaborador e gestor. O login é a conta de e-mail. A password é gerada automaticamente e enviada por e-mail.
+
+* "...application should register all payments, made by all organizations, in a single txt file". Each line of this file should contain: Date, TaskID, TaskDescription, FreelancerID, Freelancer Name, BankAccount, ValorEuros, ValorFreelancerCurrency"
+
+* Both the NIF and TaskID are enought to check if the Freelancer and Task already exist. There is no need to check if the other fields match. The other fields are used only if it is needed to create a Task or a Freelancer
+
+* The API to convert between currencies should, at least, convert euros to:  dolar (USA), libra (UK), Real (Brasil), Yen (Japan), Yuan (China).
+

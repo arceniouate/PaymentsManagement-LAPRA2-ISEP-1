@@ -1,0 +1,7 @@
+﻿ID;TaskID;TaskDescription;TaskAssignDuration;TaskCostPerHour;TaskCategory;ExecutionFinishDate;ExecutionDelay (hours);ExecutionBriefDescription;FreelancerID;FreelancerName;FreelancerExpertise;FreelancerEMail;FreelancerNIF;FreelancerBanckAccout;FreelancerAddress;FreeLancerCountry;Valor
+101;1;Web Development;75;17;Network Administration;09/03/2020;1;Medium Quality Work, not an expert in Web development;JW1;Maria Sousa;Senior;ms10@isep.ipp.pt;213456789;US120010001234567891;Rua SÃƒÂ£o TomÃƒÂ©- 54- Porto;Portugal;2550
+102;2;Mobile Application Development;86;27;Software Development;05/03/2020;-6;Non-expert, problem unsolved;MS3;Maria Sousa;Junior;ms10@isep.ipp.pt;921654987;US120010001234567891;Rua SÃƒÂ£o TomÃƒÂ©- 54- Porto;USA;2322
+103;3;Network Administration;34;16;Network Administration;14/03/2020;-1;Medium Quality Work, not an expert in Web development;JW1;John Wayne;Junior;jw@gmail.com;921654987;PT120010001234567891;Street 92- 90- New York;Portugal;544
+104;4;Web Development;87;47;Software Development;23/02/2020;-1;Non-expert, problem unsolved;MS3;Maria Sousa;Junior;jw@gmail.com;921654987;US120010001234567891;Rua SÃƒÂ£o TomÃƒÂ©- 54- Porto;Portugal;4089
+105;5;Web Development;90;59;Software Development;08/01/2020;-6;Non-expert, problem unsolved;JW1;Maria Sousa;Senior;ms10@isep.ipp.pt;921654987;PT120010001234567891;Rua SÃƒÂ£o TomÃƒÂ©- 54- Porto;USA;10620
+106;6;Web Development;92;42;Software Development;20/05/2020;7;Non-expert, problem unsolved;MS3;John Wayne;Junior;jw@gmail.com;921654987;PT120010001234567891;Street 92- 90- New York;USA;3864

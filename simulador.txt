@@ -1,0 +1,7 @@
+ID	TaskID	TaskDescription	TaskAssignDuration	TaskCostPerHour	TaskCategory	ExecutionFinishDate	ExecutionDelay (hours)	ExecutionBriefDescription	FreelancerID	FreelancerName	FreelancerExpertise	FreelancerEMail	FreelancerNIF	FreelancerBanckAccout	FreelancerAddress	FreeLancerCountry	Valor
+101	1	Mobile Application Development	92	45	Network Administration	22/02/2020	-7	Non-expert, problem unsolved	JW1	Maria Sousa	Senior	jw@gmail.com	921654987	PT120010001234567891	Rua SÃ£o TomÃ©- 54- Porto	Portugal	8280
+102	2	Web Development	57	37	Software Development	27/04/2020	1	Non-expert, problem unsolved	JW1	John Wayne	Junior	ms10@isep.ipp.pt	213456789	PT120010001234567891	Street 92- 90- New York	Portugal	2109
+103	3	Mobile Application Development	37	31	Software Development	12/01/2020	2	High Quality Work	JW1	John Wayne	Senior	ms10@isep.ipp.pt	921654987	PT120010001234567891	Street 92- 90- New York	USA	2294
+104	4	Network Administration	38	18	Software Development	06/04/2020	3	Medium Quality Work, not an expert in Web development	JW1	Maria Sousa	Junior	jw@gmail.com	213456789	PT120010001234567891	Rua SÃ£o TomÃ©- 54- Porto	USA	684
+105	5	Mobile Application Development	78	34	Software Development	31/03/2020	-7	High Quality Work	JW1	Maria Sousa	Senior	ms10@isep.ipp.pt	921654987	PT120010001234567891	Street 92- 90- New York	Portugal	5304
+106	6	Network Administration	50	33	Software Development	30/03/2020	-4	Non-expert, problem unsolved	MS3	Maria Sousa	Junior	ms10@isep.ipp.pt	213456789	PT120010001234567891	Street 92- 90- New York	Portugal	1650
